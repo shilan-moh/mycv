@@ -13,7 +13,7 @@ class UI {
     let result = "";
     contactInformation.forEach((item) => {
       result += `<div class="row row-contact">
-                  <div class="col-sm-1">
+                  <div class="col-sm-2">
                     ${item.iconUrl}
                   </div>
                   <div class="col-sm-2"><h4 class="contact-title">${item.title}</h4></div>
