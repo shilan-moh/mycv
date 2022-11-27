@@ -23,12 +23,7 @@ p {
   text-align: justify;
   color: var(--text-color);
 }
-img {
-  width: 100%;
-  display: block;
-  margin: 0 auto;
-  border-radius: 8px;
-}
+
 li {
   line-height: 30px;
 }
